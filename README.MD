@@ -40,7 +40,7 @@ Projeto desenvolvido durante o Bootcamp Ignite oferecida pela [Rocketseat](https
 <h2 id="layout"> 🎨 Layout </h2>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Todo" title="#Todo" src="./assets/to-do.png" /> 
+  <img alt="Todo" title="#Todo" src="./assets/to-do.PNG" /> 
 </p>
 <a href="https://www.loom.com/share/1f9e79f4c9104b3bbfa0eb8b2fac60ce" target="_blank">Link do vídeo demonstrativo </a>
 
